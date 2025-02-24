@@ -1,1 +1,12 @@
 /* your code */
+table{
+	width:100%;
+}
+thead{
+	color:white;
+	background-color:blue;
+}
+.aqva{
+	background-color:aqua;
+}
+
